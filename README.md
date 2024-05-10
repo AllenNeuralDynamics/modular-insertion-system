@@ -14,10 +14,10 @@ A flexible, scalable extracellular electrophysiology rig
 
 ## Contributors
 
-Jon Arnold - Mechanical design
-Josh Siegle, Karel Svoboda - Concept and oversight
-Galen Lynch, Yoni Browning, Anna Lakunina, Xinxin Yin, Han Hou, Susu Chen - Validation
-Sonya Vasquez - Electrical design
+- Mechanical design: Jon Arnold
+- Concept and oversight: Josh Siegle, Karel Svoboda
+- Validation: Galen Lynch, Yoni Browning, Anna Lakunina, Xinxin Yin, Han Hou, Susu Chen
+- Electrical design: Sonya Vasquez
 
 ## License
 
@@ -27,7 +27,7 @@ The contents of this repository are covered by the [Creative Commons BY-NC-SA Li
 
 In most cases, we recommend waiting to order a fully assembled systems from New Scale Technologies (available in late 2024).
 
-If you would like to order the individual components and build the system yourself, we strongly recommend posting an issue before getting started so we can provide advice on the ideal configuration for your experiments.
+If you would like to manufacture the individual components and build the system yourself, we strongly recommend [posting an issue](https://github.com/AllenNeuralDynamics/modular-insertion-system/issues) before getting started so we can provide advice on the ideal configuration for your experiments.
 
 
 ## Documentation
@@ -49,4 +49,4 @@ sphinx-build -b html documentation/source/ documentation/build/html
 ```
 
 
-[CC BY-NC-SA logo](documentation/source/_static/CC-BY-NC-SA.png)
+![CC BY-NC-SA logo](documentation/source/_static/CC-BY-NC-SA.png)
