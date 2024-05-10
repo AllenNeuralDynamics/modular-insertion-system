@@ -19,13 +19,10 @@ A flexible, scalable extracellular electrophysiology rig
 - Validation: Galen Lynch, Yoni Browning, Anna Lakunina, Xinxin Yin, Han Hou, Susu Chen
 - Electrical design: Sonya Vasquez
 
-## License
-
-The contents of this repository are covered by the [Creative Commons BY-NC-SA License](LICENSE). Any design files or documentation, or modifications thereof, cannot be used for commercial purposes without prior written consent from the Allen Institute. In other words, you are allowed to build the system for use in your own lab, but you cannot sell the drawings, models, or physical components. Any derivations must be attributed to the Allen Institute and shared with the same licensing terms.
 
 ## How to order
 
-In most cases, we recommend waiting to order a fully assembled systems from New Scale Technologies (available in late 2024).
+In most cases, we recommend waiting to purchase a fully assembled systems from New Scale Technologies (available in late 2024).
 
 If you would like to manufacture the individual components and build the system yourself, we strongly recommend [posting an issue](https://github.com/AllenNeuralDynamics/modular-insertion-system/issues) before getting started so we can provide advice on the ideal configuration for your experiments.
 
@@ -48,5 +45,8 @@ To create the documentation HTML files, run
 sphinx-build -b html documentation/source/ documentation/build/html
 ```
 
+## License
 
-![CC BY-NC-SA logo](documentation/source/_static/CC-BY-NC-SA.png)
+The contents of this repository are covered by the [Creative Commons BY-NC-SA License](LICENSE). Any design files or documentation, or modifications thereof, cannot be used for commercial purposes without prior written consent from the Allen Institute. In other words, you are allowed to build the system for use in your own lab, but you cannot sell the drawings, models, or physical components. Any derivations must be attributed to the Allen Institute and shared with the same licensing terms.
+
+<img src="documentation/source/_static/CC-BY-NC-SA.png" width="200" />
