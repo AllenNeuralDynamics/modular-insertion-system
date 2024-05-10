@@ -6,13 +6,33 @@ A flexible, scalable extracellular electrophysiology rig
 
 
 ## Key features
+
 - Insertion angles up to ±75° A/P and ±45° M/L
 - Modules for electrophysiology, optogenetics, and fiber photometry
 - 600 mm x 500 mm open area for behavioral platform
 - Design files available for noncommercial use
 
+## Contributors
 
-## Building the documentation
+Jon Arnold - Mechanical design
+Josh Siegle, Karel Svoboda - Concept and oversight
+Galen Lynch, Yoni Browning, Anna Lakunina, Xinxin Yin, Han Hou, Susu Chen - Validation
+Sonya Vasquez - Electrical design
+
+## License
+
+The contents of this repository are covered by the [Creative Commons BY-NC-SA License](LICENSE). Any design files or documentation, or modifications thereof, cannot be used for commercial purposes without prior written consent from the Allen Institute. In other words, you are allowed to build the system for use in your own lab, but you cannot sell the drawings, models, or physical components. Any derivations must be attributed to the Allen Institute and shared with the same licensing terms.
+
+## How to order
+
+In most cases, we recommend waiting to order a fully assembled systems from New Scale Technologies (available in late 2024).
+
+If you would like to order the individual components and build the system yourself, we strongly recommend posting an issue before getting started so we can provide advice on the ideal configuration for your experiments.
+
+
+## Documentation
+
+A web-based documentation site is currently under development. Until that is launched, you'll have to follow these instructions to build the documentation yourself.
 
 First, make sure [Sphinx](https://www.sphinx-doc.org/en/master/usage/installation.html) is installed on your system.
 
@@ -29,3 +49,4 @@ sphinx-build -b html documentation/source/ documentation/build/html
 ```
 
 
+[CC BY-NC-SA logo](documentation/source/_static/CC-BY-NC-SA.png)
