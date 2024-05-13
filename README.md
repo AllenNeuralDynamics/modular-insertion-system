@@ -22,7 +22,7 @@ A flexible, scalable extracellular electrophysiology rig
 
 ## How to order
 
-In most cases, we recommend waiting to purchase a fully assembled systems from New Scale Technologies (available in late 2024).
+In most cases, we recommend waiting to purchase a fully assembled system from New Scale Technologies (available in late 2024).
 
 If you would like to manufacture the individual components and build the system yourself, we strongly recommend [posting an issue](https://github.com/AllenNeuralDynamics/modular-insertion-system/issues) before getting started so we can provide advice on the ideal configuration for your experiments.
 
