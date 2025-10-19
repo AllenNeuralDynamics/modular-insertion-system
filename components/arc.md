@@ -1,6 +1,6 @@
 # Arc
 
-Each arc supports up to 7 sliding modules. Quantities are per arc.
+Each arc supports up to 7 modules. Quantities are per arc.
 
 ## Custom Machined Parts
 
@@ -23,5 +23,6 @@ Each arc supports up to 7 sliding modules. Quantities are per arc.
 |  5/16 x 1-14L SCHS SS                | 92196A585  | 4           |
 |  5/16 Nut SS                         | 91845A030  | 4           |
 |  M4 Washer SS                        | 93475A230  | 4           |
-|  M4x5 BHCS SS                        | 92095A477  | 5           |
-|  Cable Tie Mount                     | 7566K28    | 5           |
+|  M4 x 5 BHCS SS                      | 92095A477  | 6           |
+|  M4 x 8 BHCS SS                      | 92095A189  | 4           |
+|  Cable Tie Mount                     | 7566K28    | 6           |
