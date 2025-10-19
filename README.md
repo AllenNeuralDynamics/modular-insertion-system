@@ -8,7 +8,7 @@ A flexible, scalable extracellular electrophysiology rig
 ## Key features
 
 - Insertion angles up to ±75° A/P and ±45° M/L
-- Modules for electrophysiology, optogenetics, and fiber photometry
+- Modules for electrophysiology, optogenetics, and microscopes
 - 600 mm x 500 mm open area for behavioral platform
 - Design files available for noncommercial use
 
@@ -22,14 +22,14 @@ A flexible, scalable extracellular electrophysiology rig
 
 ## How to order
 
-In most cases, we recommend waiting to purchase a fully assembled system from New Scale Technologies (available in late 2024).
+In most cases, we recommend purchasing a [complete system](https://newscaletech.com/modular-insertion-system/) from New Scale Technologies. They can work with you to design a custom configuration to suit your experimental needs.
 
-If you would like to manufacture the individual components and build the system yourself, we strongly recommend [posting an issue](https://github.com/AllenNeuralDynamics/modular-insertion-system/issues) before getting started so we can provide advice on the ideal configuration for your experiments.
+If you would like to manufacture the individual components, we strongly recommend [posting an issue](https://github.com/AllenNeuralDynamics/modular-insertion-system/issues) before getting started so we can provide advice on the best way forward. We offer no guarantees that the system will work as advertised if you assemble it on your own.
 
 
 ## Documentation
 
-A web-based documentation site is currently under development. Until that is launched, you'll have to follow these instructions to build the documentation yourself.
+We may decide to launch a web-based documentation site at some point. To build the documentation yourself, follow these instructions:
 
 First, make sure [Sphinx](https://www.sphinx-doc.org/en/master/usage/installation.html) is installed on your system.
 
